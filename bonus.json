@@ -1,0 +1,54 @@
+{
+  "Bonus": [
+    {
+      "name": "Alqareen",
+      "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8",
+      "key": null
+    },
+    {
+      "name": "Duba Zaman",
+      "url": "https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8",
+      "key": null
+    },
+    {
+      "name": "Qatar TV",
+      "url": "https://streamer4.qna.org.qa/148133273_live/148133273_63.sdp/chunklist_w533155247.m3u8",
+      "key": null
+    },
+    {
+      "name": "Al Rayan",
+      "url": "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/chunklist_w2086322593.m3u8",
+      "key": null
+    },
+    {
+      "name": "Qatar TV 2",
+      "url": "https://streamer4.qna.org.qa/148133344_live/148133344_63.sdp/chunklist_w159760644.m3u8",
+      "key": null
+    },
+    {
+      "name": "Al Rayan Qadeem",
+      "url": "https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/chunklist_w477950162.m3u8",
+      "key": null
+    },
+    {
+      "name": "Oman TV General",
+      "url": "https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b4500000.m3u8",
+      "key": null
+    },
+    {
+      "name": "Oman Sport",
+      "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8",
+      "key": null
+    },
+    {
+      "name": "Oman Cultural",
+      "url": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist_b2700000_t64MTA4MHA=.m3u8",
+      "key": null
+    },
+    {
+      "name": "Oman TV Live",
+      "url": "https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8",
+      "key": null
+    }
+  ]
+}
