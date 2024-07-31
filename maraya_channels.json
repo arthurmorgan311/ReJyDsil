@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sharja TV",
+        "url": "https://svs.itworkscdn.net/smc1live/smc1tv.smil/smc1publish/smc1tvhd_source/chunks.m3u8",
+        "key": null
+    },
+    {
+        "name": "Sharjah Sports TV",
+        "url": "https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_source/chunks.m3u8",
+        "key": null
+    },
+    {
+        "name": "Sharqiya from Kalba",
+        "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kablatvpublish/kabtv_source/chunks.m3u8",
+        "key": null
+    },
+    {
+        "name": "Al Wousta from Al Dhaid",
+        "url": "https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustapublish/alwoustatv_source/chunks.m3u8",
+        "key": null
+    },
+    {
+        "name": "Sharjah 2 Channel",
+        "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8",
+        "key": null
+    },
+    {
+        "name": "Sharjah Quran Radio Station",
+        "url": "https://l3a.kwikmotion.net/smcquranvideopublish/smcqv/chunks.m3u8",
+        "key": null
+    }
+]

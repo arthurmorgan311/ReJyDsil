@@ -1,0 +1,217 @@
+[
+    {
+        "name": "Huda Hussain",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Huda_Hussien/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Al Ostoura",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Al Zaeem",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Hassino",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Hassino_/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "SBC",
+        "url": "https://sbc-prod-dub-ak.akamaized.net/out/v1/0ae2029d5a724bfb9ade2cb6cd77cb5c/index.mpd?aws.manifestfilter=video_height:144-1080",
+        "key": "8ac5dcebd8f5482b969431eb58febeba:0546bde183eb34366fa83b22fef26524"
+    },
+    {
+        "name": "Khaleeji",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Khaleeji_/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Roya",
+        "url": "https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Al Sham",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Al_Sham--/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Thikrayat",
+        "url": "https://thikrayat-tv-prod-dub-ak.akamaized.net/out/v1/af636a943ca443a9b1776488c5fb9a64/index.mpd?aws.manifestfilter=video_height:144-1080",
+        "key": "aff9ea39e4df4bef83d95284c1b2c69f:ecbc98275afea82349ad2fc3643324ea"
+    },
+    {
+        "name": "Nessma",
+        "url": "https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Samira TV",
+        "url": "https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Helwa",
+        "url": "https://shls-live-ak.akamaized.net/out/v1/81153498b61444bfaef4ff09b55e55aa/index.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "M6 INTERNATIONAL",
+        "url": "https://m6-int-prod-dub-ak.akamaized.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "ABtalks",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/ABtalks/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Jinaya",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Jinaya/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Ghomoud",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Ghomoud/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Crime+",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Crime/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Istishara Maa Sara",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Istishara_Maa_Sara/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Al Dhaif",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Talk_Shows/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Ramez",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Al Sadma",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Al_Sadma/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Safer Manna",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Safer_manna/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "The Chef",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Ma Lam Tara",
+        "url": "https://cdxaws-ak.akamaized.net/v1/channel/Ma_Lam_Tara/index_hls.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "MBC3",
+        "url": "https://mbc3-eur-prod-dub-ak.akamaized.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8?aws.manifestfilter=video_height:144-1080",
+        "key": null
+    },
+    {
+        "name": "Al Arabiya",
+        "url": "https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "Al Arabiya Business",
+        "url": "https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "Al Hadath",
+        "url": "https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "AlThaqafeya",
+        "url": "https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "Asharq",
+        "url": "https://asharq-prod-dub-ak.akamaized.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC Bollywood",
+        "url": "https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC Drama",
+        "url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC FM",
+        "url": "https://mbcfm-riyadh-prod-dub-ak.akamaized.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC Iraq",
+        "url": "https://iraq-prod-dub-ak.akamaized.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC Masr",
+        "url": "https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC Masr2",
+        "url": "https://shls-masr2-ak.akamaized.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC Persia",
+        "url": "https://mbcpersia-prod-dub-ak.akamaized.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC Plus Drama",
+        "url": "https://mbcplusdrama-prod-dub-ak.akamaized.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC1",
+        "url": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC4",
+        "url": "https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "MBC5",
+        "url": "https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "Panorama FM",
+        "url": "https://panoramafm-prod-dub-ak.akamaized.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8",
+        "key": null
+    },
+    {
+        "name": "Spacetoon",
+        "url": "https://spacetoon-prod-dub-ak.akamaized.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
+        "key": null
+    }
+]

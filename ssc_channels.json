@@ -1,0 +1,39 @@
+{
+  "SSC": [
+    {
+      "name": "SSC1",
+      "url": "https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
+      "key": "d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f"
+    },
+    {
+      "name": "SSC2",
+      "url": "https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd",
+      "key": "8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596"
+    },
+    {
+      "name": "SSC3",
+      "url": "https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd",
+      "key": "7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef"
+    },
+    {
+      "name": "SSC4",
+      "url": "https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd",
+      "key": "c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888"
+    },
+    {
+      "name": "SSC EXTRA1",
+      "url": "https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd",
+      "key": "ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401"
+    },
+    {
+      "name": "SSC EXTRA2",
+      "url": "https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd",
+      "key": "4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30"
+    },
+    {
+      "name": "SSC EXTRA3",
+      "url": "https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd",
+      "key": "98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a"
+    }
+  ]
+}

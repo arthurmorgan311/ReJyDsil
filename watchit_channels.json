@@ -1,0 +1,24 @@
+{
+  "WATCHIT": [
+    {
+      "name": "Al-Qahera News HD",
+      "url": "https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8",
+      "key": null
+    },
+    {
+      "name": "Rotana Comedy HD",
+      "url": "https://bcovlive-a.akamaihd.net/fc69b44214c94709aa011083a666e6f7/eu-central-1/6057955906001/playlist.mpd",
+      "key": "62b483600915c3e3bf49903ad003f31f:d33b40866e30e8253d3eae3defb1882f"
+    },
+    {
+      "name": "Rotana Cinema HD",
+      "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
+      "key": null
+    },
+    {
+      "name": "Rotana Classic HD",
+      "url": "https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8",
+      "key": null
+    }
+  ]
+}
