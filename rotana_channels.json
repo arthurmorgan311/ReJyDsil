@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Rotana Cinema",
+        "url": "https://live.kwikmotion.com/rcinemaksalive/rcinemaksa.smil/playlist.m3u8?hdnts=",
+        "key": "58a161c838193cbd8359356414bfee42",
+        "mediaUrl": "rcinemaksa"
+    },
+    {
+        "name": "Rotana Cinema Masr",
+        "url": "https://live.kwikmotion.com/rcinemaeglive/rcinemaeg.smil/playlist.m3u8?hdnts=",
+        "key": "2bc249e03ad4301994073f4457c985ab",
+        "mediaUrl": "rcinemaeg"
+    },
+    {
+        "name": "Rotana Comedy",
+        "url": "https://live.kwikmotion.com/rcomedylive/rcomedy.smil/playlist.m3u8?hdnts=",
+        "key": "c4da4eb4f612750f0779b281bc8d67d4",
+        "mediaUrl": "rcomedy"
+    },
+    {
+        "name": "Rotana Classical",
+        "url": "https://live.kwikmotion.com/rclassiclive/rclassic.smil/playlist.m3u8?hdnts=",
+        "key": "2d1d493b5e4cd1c8bfe12416774a0c8d",
+        "mediaUrl": "rclassic"
+    },
+    {
+        "name": "Rotana Drama",
+        "url": "https://live.kwikmotion.com/rdramalive/rdrama.smil/playlist.m3u8?hdnts=",
+        "key": "21813f3166d2c2e20c0b243639cde4dc",
+        "mediaUrl": "rdrama"
+    },
+    {
+        "name": "Rotana Khaleejiya",
+        "url": "https://live.kwikmotion.com/rkhalijeahlive/rkhalijeah.smil/playlist.m3u8?hdnts=",
+        "key": "5c6f48285bb30cc477408af69876cd6b",
+        "mediaUrl": "rkhalijeah"
+    },
+    {
+        "name": "Rotana LBC",
+        "url": "https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=",
+        "key": "11a84280d657dad046d1a37756fdcfef",
+        "mediaUrl": "rlbc"
+    },
+    {
+        "name": "Rotana Clip",
+        "url": "https://live.kwikmotion.com/rcliplive/rclip.smil/playlist.m3u8?hdnts=",
+        "key": "31073e6759bc9bb6ec299ff1fcec93c8",
+        "mediaUrl": "rclip"
+    },
+    {
+        "name": "Rotana Risala",
+        "url": "https://live.kwikmotion.com/alressalahlive/alressalah.smil/playlist.m3u8?hdnts=",
+        "key": "e72e95dd21a18d89b696a7737efaebdb",
+        "mediaUrl": "alressalah"
+    }
+]
