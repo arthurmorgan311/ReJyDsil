@@ -248,27 +248,27 @@
   ],
   "MOVIES": [
     {
-      "name": "WIDE : Khalijiyat",
+      "name": "WIDE - Khalijiyat",
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Khalijyat/DASH/Khalijyat.mpd",
       "key": "8f05542583cf1a015d630da18ee14c81:0ad90bb713e3c1fd8c17d1ad135ce46e"
     },
     {
-      "name": "WIDE : Comedy",
+      "name": "WIDE - Comedy",
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Comedy/DASH/Comedy.mpd",
       "key": "9b8343f70c48faf57a831dda3c22832c:9320f7c6bfee8f644599b4c2ccc29394"
     },
     {
-      "name": "WIDE : Al-Zaeem (Adel Imam)",
+      "name": "WIDE - Al-Zaeem (Adel Imam)",
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Al_Zaeem/DASH/Al_Zaeem.mpd",
       "key": "e11c848e3b484994e6b762e677ddd149:830aecdabe3e991160562aee8db739e4"
     },
     {
-      "name": "WIDE : Yousef Chahine",
+      "name": "WIDE - Yousef Chahine",
       "url": "https://mena-jit-avod-cdn-lb.starzplayarabia.com/JIT/SPA/ingest-frontrow-avod/AVODALARDY1969MAR/e9c07eef75bcc7fbc7e809f9a9c58f8f/AVODALARDY1969MAR.ism/AVODALARDY1969MAR.mpd",
       "key": "4a84a9c99a5a4f076c881f7095a64e68:9d1245e3b7daff70733af512afbf9912"
     },
     {
-      "name": "WIDE : Souad Hosny",
+      "name": "WIDE - Souad Hosny",
       "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Souad_Hosny/DASH/Souad_Hosny.mpd",
       "key": "d509f7efe7bd27ab72674c3a0cd2a2b4:1c0a7bcc055f3c8416c09d9c279a761a"
     },
